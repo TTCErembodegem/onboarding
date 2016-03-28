@@ -15,6 +15,8 @@ Je kan de speelstijl van elke speler, behalve die van jezelf, aanpassen.
 
 Om dit allemaal te verwezenlijken moet er natuurlijk voor elke uitploeg ook iemand de "+1" doen wanneer er een match gewonnen/verloren is.
 
+**Zie hier voor [Frequent Gestelde Vragen](FAQ.md)**
+
 Problemen
 ---------
 Als iets niet naar behoren werkt, laat dan weten via email.
