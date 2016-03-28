@@ -37,6 +37,8 @@ Momenteel kan je hier je paswoord en profiel foto wijzigen.
 
 ![](img/profile.png)
 
+Niet op de foto:  
+Aanpassen van je "Avatar", een kleinere foto die gebruikt wordt op mobile devices.
 
 Vandaag
 -------
