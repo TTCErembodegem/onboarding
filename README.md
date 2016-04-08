@@ -53,3 +53,15 @@ Klik op een match card om meer details te zien.
 **Match Details: Spelers** 
 
 ![](img/match-players.png)
+
+**Match Details: Verslag**
+
+![](img/match-report.png) 
+
+**Match Details: Andere tabs**  
+
+* _Wedstrijdblad_: Na speler selectie (Tab: Spelers) komt hier de nodige informatie voor het wedstrijdblad.  
+
+* _Lokaal_: Clublokaal tegenstander. Niet up to date. We maken hier werk van :)
+
+* _Individueel_: Individuele matchuitslagen na synchronisatie met Frenoy. Je kan hier op een rij klikken om alle matchen van die speler te zien.
