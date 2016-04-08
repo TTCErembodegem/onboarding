@@ -3,6 +3,7 @@ Nieuwe website TTC Erembodegem
 Doelstelling
 ------------
 Vanuit het clublokaal op de TV volgen hoe het de uitploegen vergaat.
+Terwijl de uitploegen via hun mobiel toestel volgen hoe het met de andere ploegen gaat.
 
 Features
 --------
@@ -65,3 +66,9 @@ Klik op een match card om meer details te zien.
 * _Lokaal_: Clublokaal tegenstander. Niet up to date. We maken hier werk van :)
 
 * _Individueel_: Individuele matchuitslagen na synchronisatie met Frenoy. Je kan hier op een rij klikken om alle matchen van die speler te zien.
+
+System
+======
+Er is een speciale account voor het clublokaal.  
+Dit account kan commentaar in iedereen zijn plaats posten zodat elke thuis speler commentaar kan geven op de clublokaal-pc.
+De "Vandaag" pagina is voorzien om alle matchen te kunnen volgen op de TV.
