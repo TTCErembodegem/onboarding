@@ -11,9 +11,9 @@ Hiervoor moet er natuurlijk voor elke uitploeg ook iemand de "+1" doen wanneer e
 Beginnen
 --------
 
-- [Startpagina](#Startpagina): Hoe navigeren?  
-- [Inloggen en paswoord reset](#Inloggen): Nog geen account? Paswoord vergeten?
-- [Jouw profiel](#Profiel): Paswoord wijzigen, foto/avatar opladen, ...
+- [Startpagina](#startpagina): Hoe navigeren?  
+- [Inloggen en paswoord reset](#inloggen): Nog geen account? Paswoord vergeten?
+- [Jouw profiel](#profiel): Paswoord wijzigen, foto/avatar opladen, ...
 - [Frequent Gestelde Vragen](FAQ.md)
 
 
