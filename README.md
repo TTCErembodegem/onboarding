@@ -3,53 +3,75 @@ Nieuwe website TTC Erembodegem
 Doelstelling
 ------------
 Vanuit het clublokaal op de TV volgen hoe het de uitploegen vergaat.
-Terwijl de uitploegen via hun mobiel toestel volgen hoe het met de andere ploegen gaat.
+De uit spelers kunnen met hun mobiel toestel de stand ingeven en ondertussen volgen hoe het 
+de andere ploegen vergaat.
 
-Features
+Hiervoor moet er natuurlijk voor elke uitploeg ook iemand de "+1" doen wanneer er een match gewonnen/verloren is.
+
+Beginnen
 --------
-De nieuwe "Vandaag" pagina volgt de matchen die die dag gespeeld worden.
-Elke speler kan de score van zijn match up-to-date houden en commentaar op elke match toevoegen.
-Na afloop kan iemand van de ploeg een wedstrijdverslag ingeven.
-Elke speler kan zijn profielfoto instellen.
-Je kan de speelstijl van elke speler, behalve die van jezelf, aanpassen.
 
-Om dit allemaal te verwezenlijken moet er natuurlijk voor elke uitploeg ook iemand de "+1" doen wanneer er een match gewonnen/verloren is.
+- [Startpagina](#Startpagina): Hoe navigeren?  
+- [Inloggen en paswoord reset](#Inloggen): Nog geen account? Paswoord vergeten?
+- [Jouw profiel](#Profiel): Paswoord wijzigen, foto/avatar opladen, ...
+- [Frequent Gestelde Vragen](FAQ.md)
 
-**Zie hier voor [Frequent Gestelde Vragen](FAQ.md)**
+
+Mogelijkheden
+-------------
+- Speler, match, week en ploeg resultaten bekijken
+- Je kan op jouw matchen:
+	- De score up-to-date houden
+	- Commentaar en foto's toevoegen
+	- Na afloop een wedstrijdverslag ingeven
+- Elke speler kan zijn profielfoto en avatar opladen.
+- Je kan de speelstijl van elke speler, behalve die van jezelf, aanpassen.
+
 
 Problemen
 ---------
-Als iets niet naar behoren werkt, laat dan weten via email.
+Als iets niet naar behoren werkt, laat dan weten via [email](mailto:woutervs@hotmail.com).
+
 
 Startpagina
 -----------
-![](img/intro.png)
+- Het menu openen: klik op het hamburger icoon links bovenaan
+- Inloggen: klik op "LOG IN" rechts bovenaan
+
+![](img/intro-small.png)
+
 
 Inloggen
 --------
-Je zou een email van Wouter moeten ontvangen hebben met daarin je paswoord.
+Nog niet / nooit ingelogd?
+
+- Je kan een paswoord aanvragen via "LOG IN" en dan de "Paswoord vergeten?" link. 
+Kies je naam en vul je email in. Er wordt een mail naar je gestuurd met een link. 
+Open de link om een paswoord te kiezen.
+- Of: een bestuurslid kan je een paswoord toekennen / wijzigen.
 
 ![](img/login.png)
 
+Eenmaal ingelogd kan je je paswoord naar eender wat veranderen op jouw profiel pagina.
+
+
 Profiel
 -------
-Eenmaal ingelogd, wordt de "LOG IN" knop vervangen door een manneke icon.  
-Je kan daar op klikken om je profiel te bekijken.  
-Momenteel kan je hier je paswoord en profiel foto wijzigen.  
+Eenmaal ingelogd, wordt de "LOG IN" knop vervangen door een manneke icoon.  
 
-![](img/profile.png)
+Daarop klikken voert je naar jouw profiel pagina met volgende opties:  
 
-Niet op de foto:  
-Aanpassen van je "Avatar", een kleinere foto die gebruikt wordt op mobile devices.
+- Je foto wijzigen (nieuwe foto's wel in clubuitrusting!)
+- Je avatar wijzigen (kleinere foto voor mobiele toestellen)
+- Je paswoord wijzigen
+- Je beschikbaarheden opgeven voor de ploegopstellingen
 
-Vandaag
--------
-Deze pagina is in het menu (icon links bovenaan naast "Erembodegem") bereikbaar en is enkel beschikbaar op dagen dat er competitie matchen gespeeld worden.
 
+Match Card
+----------
 ![](img/matches-today.png)
 
-Match Details
--------------
+
 Klik op een match card om meer details te zien.  
 
 ![](img/match-tabs.png)
@@ -70,9 +92,3 @@ Klik op een match card om meer details te zien.
 * _Lokaal_: Clublokaal tegenstander. Niet up to date. We maken hier werk van :)
 
 * _Individueel_: Individuele matchuitslagen na synchronisatie met Frenoy. Je kan hier op een rij klikken om alle matchen van die speler te zien.
-
-System
-======
-Er is een speciale account voor het clublokaal.  
-Dit account kan commentaar in iedereen zijn plaats posten zodat elke thuis speler commentaar kan geven op de clublokaal-pc.
-De "Vandaag" pagina is voorzien om alle matchen te kunnen volgen op de TV.
