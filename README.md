@@ -10,22 +10,23 @@ Hiervoor moet er natuurlijk voor elke uitploeg ook iemand de "+1" doen wanneer e
 
 Beginnen
 --------
-
 - [Startpagina](#startpagina): Hoe navigeren?  
 - [Inloggen en paswoord reset](#inloggen): Nog geen account? Paswoord vergeten?
 - [Jouw profiel](#profiel): Paswoord wijzigen, foto/avatar opladen, ...
-- [Frequent Gestelde Vragen](FAQ.md)
+- [Speler en ploeg resultaten bekijken](OtherPages.md)
 
 
-Mogelijkheden
--------------
-- Speler, match, week en ploeg resultaten bekijken
-- Je kan op jouw matchen:
-	- De score up-to-date houden
-	- Commentaar en foto's toevoegen
-	- Na afloop een wedstrijdverslag ingeven
-- Elke speler kan zijn profielfoto en avatar opladen.
-- Je kan de speelstijl van elke speler, behalve die van jezelf, aanpassen.
+De match kaarten
+----------------
+
+- [De match kaart uitgelegd](MatchKaart.md)
+- [Hoe de ploegopstelling wijzigen](PloegopstellingMatch.md)
+
+**Je kan op matchen**
+
+- De score up-to-date houden
+- Commentaar en foto's toevoegen
+- Na afloop een wedstrijdverslag ingeven
 
 
 Problemen
@@ -43,7 +44,7 @@ Startpagina
 
 Inloggen
 --------
-Nog niet / nooit ingelogd?
+**Nog niet / nooit ingelogd?**
 
 - Je kan een paswoord aanvragen via "LOG IN" en dan de "Paswoord vergeten?" link. 
 Kies je naam en vul je email in. Er wordt een mail naar je gestuurd met een link. 
@@ -65,30 +66,3 @@ Daarop klikken voert je naar jouw profiel pagina met volgende opties:
 - Je avatar wijzigen (kleinere foto voor mobiele toestellen)
 - Je paswoord wijzigen
 - Je beschikbaarheden opgeven voor de ploegopstellingen
-
-
-Match Card
-----------
-![](img/matches-today.png)
-
-
-Klik op een match card om meer details te zien.  
-
-![](img/match-tabs.png)
-
-
-**Match Details: Spelers** 
-
-![](img/match-players.png)
-
-**Match Details: Verslag**
-
-![](img/match-report.png) 
-
-**Match Details: Andere tabs**  
-
-* _Wedstrijdblad_: Na speler selectie (Tab: Spelers) komt hier de nodige informatie voor het wedstrijdblad.  
-
-* _Lokaal_: Clublokaal tegenstander. Niet up to date. We maken hier werk van :)
-
-* _Individueel_: Individuele matchuitslagen na synchronisatie met Frenoy. Je kan hier op een rij klikken om alle matchen van die speler te zien.
