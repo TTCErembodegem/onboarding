@@ -1,8 +1,6 @@
-Website TTC Erembodegem
-=======================
-
 Doelstelling
 ------------
+
 Vanuit het clublokaal op de TV volgen hoe het de uitploegen vergaat.
 De uit spelers kunnen met hun mobiel toestel de stand ingeven en ondertussen volgen hoe het 
 de andere ploegen vergaat.
